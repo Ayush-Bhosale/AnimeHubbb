@@ -7,8 +7,8 @@ function Hero() {
         <Image
           src="./logo.svg"
           alt="logo"
-          width={101}
-          height={96}
+          width={80}
+          height={95}
           className="object-contain"
         />
         <h1 className="sm:text-6xl text-5xl text-white lg:max-w-lg font-bold leading-[120%]">
